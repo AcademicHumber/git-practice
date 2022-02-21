@@ -1,5 +1,6 @@
+// Add two numbers
 function add(number1, number2) {
-  pass;
+  return number1 + number2;
 }
 
 function substract(number1, number2) {
