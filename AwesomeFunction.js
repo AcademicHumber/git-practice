@@ -1,13 +1,13 @@
 function add(number1, number2) {
-  return a + b;
+  pass;
 }
 
 function substract(number1, number2) {
-  return a - b;
+  pass;
 }
 
 function multiply(number1, number2) {
-  return a * b;
+  pass;
 }
 
 function divide(number1, number2) {
