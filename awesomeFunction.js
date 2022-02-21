@@ -12,5 +12,5 @@ function multiply(number1, number2) {
 }
 
 function divide(number1, number2) {
-  pass;
+  return number1/number2;
 }
